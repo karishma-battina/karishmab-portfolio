@@ -1,21 +1,25 @@
-# Data Scientist
+# Devops Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Python, Prometheus, Grafana, ELK Stack
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Management - Data Analytics | Indiana Wesleyan University, Indiana, USA (_April 2025_)	 			        		
+- B.Tech., Computer Science | Gokaraju Rangaraju Institute of Engineering and Technology (_May 2016_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Senior Software Engineer @ Dell Technologies, Hyderabad India (_October 2021 - August 2023_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Cloud Applications Engineer @ Oracle, Hyderabad India (_October 2020 - September 2021_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
+**IT Analyst @ Tata Consultancy Services, Hyderabad, India (_October 2020 - September 2021_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+<!---
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
@@ -53,3 +57,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
 - [Data Science Blog](https://medium.com/@shawhin)
+-->
