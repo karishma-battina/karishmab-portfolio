@@ -1,6 +1,6 @@
 # Devops Engineer
 
-#### Technical Skills: DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Python, Prometheus, Grafana, ELK Stack
+#### <code style="color : aqua">Technical Skills</code>: DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Python, Prometheus, Grafana, ELK Stack
 
 ## Education
 - M.S., Management - Data Analytics | Indiana Wesleyan University, Indiana, USA (_April 2025_)	 			        		
