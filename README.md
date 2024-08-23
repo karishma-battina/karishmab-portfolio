@@ -14,7 +14,7 @@ DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Pyt
 
 ## Education
 - M.S., Management - Data Analytics | Indiana Wesleyan University, Indiana, USA (_April 2025_)	 			        		
-- B.Tech., Computer Science | Gokaraju Rangaraju Institute of Engineering and Technology (_May 2016_)
+- B.Tech., Computer Science | Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad, India (_May 2016_)
 
 ## Work Experience
 **Senior Software Engineer @ Dell Technologies, Hyderabad India (_Oct 2021 - Aug 2023_)**
