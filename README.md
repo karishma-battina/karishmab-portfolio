@@ -24,11 +24,15 @@ DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Pyt
 - Developed and optimized DevOps pipelines that accelerated deployment times by 60%, reduced operational costs by 50%, and managed scalable, highly available Kubernetes environments with zero downtime, supporting critical business operations.
 
 **Cloud Applications Engineer @ Oracle, Hyderabad India (_Oct 2020 - Sep 2021_)**
+
+![Oracle](/assets/img/oracle.png)
 - Deployed multiple microservices from legacy environments to Oracle Cloud Infrastructure (OCI) using Ansible playbooks for deployment automation, emphasizing increased automation and efficiency.
 - Managed Docker containers, implemented Docker files, built new images, and managed source code using Gitlab, actively participating in code reviews and resolving merge conflicts.
 - Supported and troubleshot deployment issues in production data centers, configured PCP and Nagios for effective monitoring, and used JIRA for sprint planning and tracking defects and issues.
 
 **IT Analyst @ Tata Consultancy Services, Hyderabad, India (_Oct 2020 - Sep 2021_)**
+
+![Tcs](/assets/img/tcs.png)
 - Onboarded 10+ services from a legacy environment to the cloud using Python. Configured Compute Cluster (HPC platform), vCloud, Linux compute, and physical server-based services. Developed Puppet roles for automated configuration and implemented Ansible playbooks with AWX for remote operations.
 - Managed and executed project phases on-site in Sweden over a year, coordinating with customers and utilizing JIRA for tracking 150+ tickets. Automated ticket processing using REST APIs, reducing manual handling time by 40%.
 - Applied Agile methodologies, created Jenkins build and deployment jobs for DEV, QA, and UAT environments, and gained proficiency in Python modules, debugging, and testing frameworks.
