@@ -17,7 +17,7 @@ DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Pyt
 **Senior Software Engineer @ Dell Technologies, Hyderabad India (_Oct 2021 - Aug 2023_)**
 
 
-![Dell](/assets/img/dell.jpeg)
+![Dell](/assets/img/dell.png)
 - Part of Dell GitLab Shared Runners team, providing highly available, standardized, and version-controlled build and deployment execution environments for 5,000+ Dell GitLab users.
 - Spearheaded the creation and maintenance of 20+ automated BuildOps pipelines, leveraging Infrastructure as Code (IaC) practices to support a 40% user growth across the Dell Digital Organization.
 - Automated over 90% of manual tasks, resulting in a 30% increase in operational efficiency and a 25% reduction in errors, by deploying, upgrading, and managing GitLab runners using Terraform, Ansible, Bash, PowerShell, and Helm Charts across multi-cloud platforms.
