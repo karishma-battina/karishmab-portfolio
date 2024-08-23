@@ -7,17 +7,21 @@
 - B.Tech., Computer Science | Gokaraju Rangaraju Institute of Engineering and Technology (_May 2016_)
 
 ## Work Experience
-**Senior Software Engineer @ Dell Technologies, Hyderabad India (_October 2021 - August 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Senior Software Engineer @ Dell Technologies, Hyderabad India (_Oct 2021 - Aug 2023_)**
+- Part of Dell GitLab Shared Runners team, providing highly available, standardized, and version-controlled build and deployment execution environments for 5,000+ Dell GitLab users.
+- Spearheaded the creation and maintenance of 20+ automated BuildOps pipelines, leveraging Infrastructure as Code (IaC) practices to support a 40% user growth across the Dell Digital Organization.
+- Automated over 90% of manual tasks, resulting in a 30% increase in operational efficiency and a 25% reduction in errors, by deploying, upgrading, and managing GitLab runners using Terraform, Ansible, Bash, PowerShell, and Helm Charts across multi-cloud platforms.
+- Developed and optimized DevOps pipelines that accelerated deployment times by 60%, reduced operational costs by 50%, and managed scalable, highly available Kubernetes environments with zero downtime, supporting critical business operations.
 
-**Cloud Applications Engineer @ Oracle, Hyderabad India (_October 2020 - September 2021_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Cloud Applications Engineer @ Oracle, Hyderabad India (_Oct 2020 - Sep 2021_)**
+- Deployed multiple microservices from legacy environments to Oracle Cloud Infrastructure (OCI) using Ansible playbooks for deployment automation, emphasizing increased automation and efficiency.
+- Managed Docker containers, implemented Docker files, built new images, and managed source code using Gitlab, actively participating in code reviews and resolving merge conflicts.
+- Supported and troubleshot deployment issues in production data centers, configured PCP and Nagios for effective monitoring, and used JIRA for sprint planning and tracking defects and issues.
 
-**IT Analyst @ Tata Consultancy Services, Hyderabad, India (_October 2020 - September 2021_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**IT Analyst @ Tata Consultancy Services, Hyderabad, India (_Oct 2020 - Sep 2021_)**
+- Onboarded 10+ services from a legacy environment to the cloud using Python. Configured Compute Cluster (HPC platform), vCloud, Linux compute, and physical server-based services. Developed Puppet roles for automated configuration and implemented Ansible playbooks with AWX for remote operations.
+- Managed and executed project phases on-site in Sweden over a year, coordinating with customers and utilizing JIRA for tracking 150+ tickets. Automated ticket processing using REST APIs, reducing manual handling time by 40%.
+- Applied Agile methodologies, created Jenkins build and deployment jobs for DEV, QA, and UAT environments, and gained proficiency in Python modules, debugging, and testing frameworks.
 
 <!---
 ## Projects
