@@ -23,7 +23,7 @@ DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Pyt
 - Automated over 90% of manual tasks, resulting in a 30% increase in operational efficiency and a 25% reduction in errors, by deploying, upgrading, and managing GitLab runners using Terraform, Ansible, Bash, PowerShell, and Helm Charts across multi-cloud platforms.
 - Developed and optimized DevOps pipelines that accelerated deployment times by 60%, reduced operational costs by 50%, and managed scalable, highly available Kubernetes environments with zero downtime, supporting critical business operations.
 
-**Cloud Applications Engineer @ Oracle, Hyderabad India (_Oct 2020 - Sep 2021_)**
+**Cloud Applications Engineer @ Oracle, Hyderabad India (_July 2016 - Oct 2020_)**
 
 ![Oracle](/assets/img/oracle.png)
 - Deployed multiple microservices from legacy environments to Oracle Cloud Infrastructure (OCI) using Ansible playbooks for deployment automation, emphasizing increased automation and efficiency.
