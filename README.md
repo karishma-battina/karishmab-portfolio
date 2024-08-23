@@ -1,6 +1,12 @@
 # Devops Engineer
 
-#### <code style="color : aqua">Technical Skills</code>: DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Python, Prometheus, Grafana, ELK Stack
+Hi! I’m Karishma, a DevOps Engineer originally from India and now based in the USA.
+
+I’m passionate about technology and thrive on exploring new languages and frameworks, improving performance, and tackling real-world challenges that make a difference.
+
+Outside of work, I enjoy photography, cooking, and engaging in DIY projects. I’m also an avid reader of software development and philosophical books, drawing inspiration from my background in humanism.
+
+##### Technical Skills : DevOps, Azure, IaC, Terraform, GitLab, Docker, Kubernetes, Ansible, Jenkins, Python, Prometheus, Grafana, ELK Stack
 
 ## Education
 - M.S., Management - Data Analytics | Indiana Wesleyan University, Indiana, USA (_April 2025_)	 			        		
@@ -8,6 +14,7 @@
 
 ## Work Experience
 **Senior Software Engineer @ Dell Technologies, Hyderabad India (_Oct 2021 - Aug 2023_)**
+!(/assets/img/dell.png)
 - Part of Dell GitLab Shared Runners team, providing highly available, standardized, and version-controlled build and deployment execution environments for 5,000+ Dell GitLab users.
 - Spearheaded the creation and maintenance of 20+ automated BuildOps pipelines, leveraging Infrastructure as Code (IaC) practices to support a 40% user growth across the Dell Digital Organization.
 - Automated over 90% of manual tasks, resulting in a 30% increase in operational efficiency and a 25% reduction in errors, by deploying, upgrading, and managing GitLab runners using Terraform, Ansible, Bash, PowerShell, and Helm Charts across multi-cloud platforms.
@@ -24,6 +31,7 @@
 - Applied Agile methodologies, created Jenkins build and deployment jobs for DEV, QA, and UAT environments, and gained proficiency in Python modules, debugging, and testing frameworks.
 
 <!---
+#<code style="color : aqua">Technical Skills</code>
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
